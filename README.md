@@ -103,4 +103,4 @@ python regressao_cerveja.py
 
 ## 📄 Licença
 
-Projeto acadêmico — PUC Goiás, 2025.
+Projeto acadêmico — PUC Goiás.
